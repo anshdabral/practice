@@ -1,0 +1,26 @@
+body {
+    background-color: #FDEEDC;
+    text-align: center;
+}
+h1 {
+    color: #66BFBF;
+}
+h3 {
+    color: #66BFBF;
+}
+hr {
+    border-style: dotted none none;
+    border-color: cadetblue;
+    border-width: 10px;
+    width: 10%;
+}
+ul {
+    list-style-position: inside;
+}
+ol {
+    list-style-position: inside;
+}
+
+.circular {
+    border-radius: 10%;
+}
